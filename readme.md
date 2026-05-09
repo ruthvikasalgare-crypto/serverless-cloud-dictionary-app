@@ -20,6 +20,18 @@ The frontend, a React application, will be hosted on AWS Amplify, and API reques
 ### Project Architecture:
 <img width="1381" height="541" alt="image" src="https://github.com/user-attachments/assets/56a6c9b2-dece-49dc-ad62-29848fa59418" />
 
+### Architecture
+
+React App
+   ↓
+API Gateway
+   ↓
+Lambda
+   ↓
+DynamoDB
+
+
+
 ### Steps to be performed:
 In the next few lessons, we'll be going through the following steps.
 
