@@ -179,22 +179,6 @@ aws dynamodb batch-write-item --request-items file://records/records-2.json
 aws dynamodb batch-write-item --request-items file://records/records-3.json
 aws dynamodb batch-write-item --request-items file://records/records-4.json
 ```
-
-
-# Serverless Cloud Dictionary App
-
-A serverless cloud-based dictionary application built using AWS services and React.js.
-
----
-
-# AWS Services Used
-
-- AWS Lambda
-- API Gateway
-- DynamoDB
-- React.js
-- Python (Boto3)
-
 ---
 
 # Architecture
