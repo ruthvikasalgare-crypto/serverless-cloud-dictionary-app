@@ -25,12 +25,15 @@ The frontend, a React application, will be hosted on AWS Amplify, and API reques
 React App
 
    ↓
+   
 API Gateway
 
    ↓
+   
 Lambda
 
    ↓
+   
 DynamoDB
 
 
