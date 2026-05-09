@@ -187,6 +187,9 @@ Frontend → API Gateway → Lambda → DynamoDB
 
 ---
 
+
+# AWS Project Screenshots
+
 # API Gateway Overview
 
 ![API Gateway Overview](screenshots/api-gateway-overview.jpg.jpg)
