@@ -179,3 +179,7 @@ aws dynamodb batch-write-item --request-items file://records/records-2.json
 aws dynamodb batch-write-item --request-items file://records/records-3.json
 aws dynamodb batch-write-item --request-items file://records/records-4.json
 ```
+
+
+
+
