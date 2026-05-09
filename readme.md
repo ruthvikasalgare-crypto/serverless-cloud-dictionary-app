@@ -189,37 +189,37 @@ Frontend → API Gateway → Lambda → DynamoDB
 
 # API Gateway Overview
 
-![API Gateway Overview](screenshots/api-gateway-overview.jpg)
+![API Gateway Overview](screenshots/api-gateway-overview.jpg.jpg)
 
 ---
 
 # API Gateway Resources
 
-![API Gateway Resources](screenshots/api-gateway-resources.jpg)
+![API Gateway Resources](screenshots/api-gateway-resources.jpg.jpg)
 
 ---
 
 # DynamoDB Table
 
-![DynamoDB Table](screenshots/dynamodb-table.jpg)
+![DynamoDB Table](screenshots/dynamodb-table.jpg.jpg)
 
 ---
 
 # DynamoDB Stored Items
 
-![DynamoDB Items](screenshots/dynamodb-items.jpg)
+![DynamoDB Items](screenshots/dynamodb-items.jpg.jpg)
 
 ---
 
 # Lambda Function List
 
-![Lambda Functions](screenshots/lambda-functions.jpg)
+![Lambda Functions](screenshots/lambda-functions.jpg.jpg)
 
 ---
 
 # Lambda Function Code
 
-![Lambda Code](screenshots/lambda-code.jpg)
+![Lambda Code](screenshots/lambda-code.jpg.jpg)
 
 ---
 
