@@ -223,3 +223,7 @@ Frontend → API Gateway → Lambda → DynamoDB
 
 ---
 
+# VS Code
+
+![VS Code](screenshots/VScode.jpg)
+
